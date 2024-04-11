@@ -10,6 +10,5 @@ I have a strong enthusiasm for the IT industry and am eager to develop and broad
 ## Competence in:
  C, C++, Python, JavaScript, HTML, CSS, Nodejs, express,Orable, Postgres, MongoDB
 - 👯 I’m looking to collaborate with anyone whose have similar interest to myself on interesting project.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: wilgardfils@gmail.com or wfilsaime@myseneca.ca
 
